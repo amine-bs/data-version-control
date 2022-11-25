@@ -1,0 +1,5 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = s3://mbenxsalha/diffusion/dvc
+    endpointurl = https://minio.lab.sspcloud.fr
